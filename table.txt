@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> Página en HTML </title>
+</head>
+<body>
+    <h1>Bienvenidos a mi página Web</h1>
+    <h2>Bienvenidos a mi página Web</h2>
+    <h3>Bienvenidos a mi página Web</h3>
+    <p><i><b>
+    Soy Luz Amanda Almada Arévalo </b></i></p>
+    <hr>
+    <h1>Atributos del texto</h1>
+    <ul type=”square”>
+        <li><em>Texto con énfasis</em></li>
+        <li><i>Texto en cursiva</i></li>
+        <li><pre>Texto preformateado</pre></li>
+        <li><s>Texto tachado</s></li>
+        <li><small>Texto pequeño</small></li>
+        <li><b>Texto en negritas</b></li> 
+        <li><strong>Texto en negritas</strong></li> <!--Misma función que b-->
+        <li><u>Texto subrayado</u></li>
+        <li><sub> Texto formato de subíndice </sub></li>
+        <li><sup> Texto formato de superíndice </sup></li>
+        <li><code> Texto  de código </code></li>
+        <li><font color="blue">Texto color azúl</font></li>
+        <li><font color="#FF0000">Texto color rojo hexadecimal</font></li>
+        <li><font size="20px">Texto tamaño 20</font></li>
+        <li><font style="normal">Texto estilo normal</font></li>
+        <li><font face="comic sans ms">Texto con tipo de fuente comic</font></li>
+     </ul>
+    <hr>
+    <table style="width:100%" border="1px">
+        <tr>
+          <th>NOMBRE</th>
+          <th colspan="2">APELLIDOS</th>
+        </tr>
+        <tr>
+          <td>GABRIEL</td>
+          <td>ASCENCIO</td>
+          <td>ROSALES</td>
+        </tr>
+        <tr>
+          <td>DIANA</td>
+          <td>BUCIO</td>
+          <td>AGUILAR</td>
+        </tr>
+        <tr>
+          <td>JAVIER ALEXIS</td>
+          <td>CAMPA</td>
+          <td>PADILLA</td>
+        </tr>
+      </table>
+      
+</body>
+</html>
